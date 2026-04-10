@@ -1,0 +1,4 @@
+ANTHROPIC_AUTH_TOKEN='vck_7bo95y4bJVyFLMmKtTGs2MgRFjiWPPPbM3DuyShbZzI06IvFHF3XO09K'
+AI_GATEWAY_API_KEY='vck_7bo95y4bJVyFLMmKtTGs2MgRFjiWPPPbM3DuyShbZzI06IvFHF3XO09K'
+V0_CALLBACK_URL='https://callback.v0.app/?v0CallbackPath=&v0UserId=Qt1CNi4LO4T1UaCmnN6GX7w1&v0ChatId=oGqiZozwjVm'
+V0_CODE_SERVER_CALLBACK_URL='https://callback.v0.app/code-server?v0ChatId=oGqiZozwjVm&v0UserId=Qt1CNi4LO4T1UaCmnN6GX7w1'
